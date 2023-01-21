@@ -1,0 +1,16 @@
+{
+  "name": "filewatcher_scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "com.redis": "^2.8.1",
+    "com.small-uuid": "^1.2.7",
+    "ssh2-sftp-client": "^7.0.0"
+  }
+}
